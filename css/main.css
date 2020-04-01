@@ -1,0 +1,67 @@
+body
+{
+	padding-top: 10px;
+}
+#headerwrapper
+{
+	position: relative;
+	margin:0;
+	padding: 0;
+	height: 600px;
+	background-image:url('../images/lk.jpg');
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: 100% 600px;
+	background-position: top center;
+	background-attachment: fixed;
+	background-color: gray;
+
+
+}
+.imgdetail
+{
+	width: auto;
+	height: 200px;
+}
+.img-res
+{
+	width: 200px;
+	margin: 20px auto;
+	border-style: 
+}
+#table-auto
+{
+	width: auto;
+	margin:0px auto;
+}
+#login-form
+{
+	height:60%;
+	width: 50%;
+	border: 2px solid black;
+	margin: 8% auto;
+	padding: 20px;
+	box-shadow: 7px 7px 7px rgba(0,0,0,0.6);
+	background-color: rgb(255, 255, 255);
+	border-radius: 15px;
+}
+.button2 {
+  background-color: #000080; 
+  color: white; 
+  border: 2px solid white;
+  margin:15px;
+  height: 35px;
+  width:100px;
+
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+#logotext{ 
+	position: absolute;
+	top:200px;
+	left:350px;
+
+}
